@@ -14,10 +14,10 @@ With some tinkering, it should work on desktop/web as well.
 
 ## Screenshots
 
-![](wiki/home.png)
-![](wiki/manga_top.png)
-![](wiki/manga_dial.png)
-![](wiki/reader.png)
+<img src="wiki/home.png" width="300" />
+<img src="wiki/manga_top.png" width="300" />
+<img src="wiki/manga_dial.png" width="300" />
+<img src="wiki/reader.png" width="300" />
 
 ## Supported sources
 - MangaEden (EN)
