@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/donate-patreon-orange.svg)](https://www.patreon.com/bePatron?c=954360)
 [![](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/TSedlar)
 
-A flutter application for reading manga
+A Flutter application for reading manga
 
 
 This application works on both iOS and Android.
